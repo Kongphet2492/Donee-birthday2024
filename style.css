@@ -147,11 +147,10 @@ h2 {
 audio{
     position: relative;
     padding-top: 1px;
-    /* border-color: #ef476f; */
+    /* color: #ef476f; */
     margin: 3px;
     width: 240px;
     height: 20px;
-    /* background: #ef476f; */
 }
 
 p {
@@ -218,7 +217,7 @@ p {
 }
 footer{
  font-size: 12px;
- color: red;
+ color: black;
  position: absolute;
  bottom: 5px;
 }

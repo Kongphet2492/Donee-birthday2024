@@ -5,7 +5,7 @@
 }
 
 body {
- background-color: #eee;
+ background-color: white;
  /* background-color: #073b4c; */
 }
 
@@ -13,7 +13,7 @@ body {
  display: flex;
  align-items: center;
  justify-content: center;
- margin-top: 80px;
+ margin-top: 50px;
 }
 
 h2 {
@@ -149,7 +149,7 @@ audio{
     padding-top: 1px;
     border-color: #ef476f;
     margin: 3px;
-    width: 200px;
+    width: 240px;
     height: 20px;
     /* background: #ef476f; */
 }
